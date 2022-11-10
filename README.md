@@ -30,8 +30,8 @@ To run this project, you will need to replace the following variables to your ap
 
 ## Screenshots
 
-<img src="https://github.com/mu-fazil-vk/Love-Calculator/blob/main/screenshot/home.png" height="160" width="90" >
-<img src="https://github.com/mu-fazil-vk/Love-Calculator/blob/main/screenshot/result.png" height="160" width="90" >
+<img align="left" src="https://github.com/mu-fazil-vk/Love-Calculator/blob/main/screenshot/home.png" height="300" width="150" >
+<img src="https://github.com/mu-fazil-vk/Love-Calculator/blob/main/screenshot/result.png" height="300" width="150" >
 
 
 ## License
