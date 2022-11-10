@@ -8,7 +8,7 @@ It is an application created in Flutter. When we enter any two names into the in
 ## Badges
 
 
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://github.com/mu-fazil-vk/Love-Calculator/blob/main/LICENSE/)
 
 
 ## Deployment
@@ -30,8 +30,8 @@ To run this project, you will need to replace the following variables to your ap
 
 ## Screenshots
 
-![Home](https://telegra.ph/file/7cc352a1f22bca0a44b09.png)
-![Result](https://telegra.ph/file/4e5d8fab4f999b3a8dd8a.png)
+<img src="https://github.com/mu-fazil-vk/Love-Calculator/blob/main/screenshot/home.png" height="160" width="90" >
+<img src="https://github.com/mu-fazil-vk/Love-Calculator/blob/main/screenshot/result.png" height="160" width="90" >
 
 
 ## License
