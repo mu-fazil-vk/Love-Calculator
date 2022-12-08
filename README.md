@@ -2,7 +2,7 @@
 # Love Calculator
 
 
-It is an application created in Flutter. When we enter any two names into the input fields, we receive a percentage indicating how closely those two people match, as well as a suggestion as to whether the relationship is good or bad. It is only for fun.
+It is an application created in Flutter. When we enter any two names into the input fields, we receive a percentage indicating how closely those two people match, as well as a suggestion as to whether the relationship is good or bad. It is only for fun. And it also integrated with google ads.
 
 
 ## Badges
