@@ -1,3 +1,10 @@
+/*
+==================================FAZIL_VK================================================
+Written and Copyrighted by Fazil vk, https://github.com/mu-fazil-vk
+==========================================================================================
+*/
+
+
 import 'package:love_calculator/splash.dart';
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
