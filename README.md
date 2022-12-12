@@ -19,7 +19,7 @@ To deploy this project run
   flutter run
 ```
 
-## API Key
+## Download
 <a href="https://ln5.sync.com/dl/3d754b4a0#yxpqhmxn-4rsvck32-7vttasax-5i9dfdur">
   <img src="https://github.com/mu-fazil-vk/Love-Calculator/blob/main/screenshot/download.png" height="175" width="350" >
 </a>
@@ -36,6 +36,10 @@ To run this project, you will need to replace the following variables to your ap
 
 <img align="left" src="https://github.com/mu-fazil-vk/Love-Calculator/blob/main/screenshot/home.png" height="300" width="150" >
 <img src="https://github.com/mu-fazil-vk/Love-Calculator/blob/main/screenshot/result.png" height="300" width="150" >
+
+
+## Install
+If you had a pop-up while installing this app like the below screenshot, click "Install anyway." It is because this app is not published in the Play Store.
 
 
 ## License
