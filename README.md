@@ -18,11 +18,24 @@ To deploy this project run
 ```bash
   flutter run
 ```
-
-## Download
-<a href="https://ln5.sync.com/dl/3d754b4a0#yxpqhmxn-4rsvck32-7vttasax-5i9dfdur">
-  <img src="https://github.com/mu-fazil-vk/Love-Calculator/blob/main/screenshot/download.png" height="175" width="350" >
+<h2><details><summary> Download </summary><h2>
+  
+  <h4> Link 1 </h4>
+<a href="https://drive.google.com/uc?export=download&id=1SwnYmwmFzxhNCJbK_kOHtTvG2V0ZFAw1">
+  <img src="https://github.com/mu-fazil-vk/Love-Calculator/blob/main/screenshot/download.png" height="155" width="300" >
 </a>
+  
+ <h4> Link 2 </h4>
+<a href="https://www.mediafire.com/file/cv74k01y2tkjvzp/Love_Calculator.apk/file">
+  <img src="https://github.com/mu-fazil-vk/Love-Calculator/blob/main/screenshot/download1.png" height="155" width="300" >
+</a>
+  
+<h4> Link 3 </h4>
+<a href="https://ln5.sync.com/dl/3d754b4a0#yxpqhmxn-4rsvck32-7vttasax-5i9dfdur">
+  <img src="https://github.com/mu-fazil-vk/Love-Calculator/blob/main/screenshot/download2.png" height="155" width="300" >
+</a>
+  
+ </details>
 
 ## API Key
 
