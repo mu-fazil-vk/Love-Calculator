@@ -41,8 +41,8 @@ To run this project, you will need to replace the following variables to your ap
 ## Install
 If you had a pop-up while installing this app like the below screenshot, click "Install anyway." It is because this app is not published in the Play Store.
 
-<img align="left" src="https://github.com/mu-fazil-vk/Love-Calculator/blob/main/screenshot/install.jpg" height="150" width="280" >
-<img src="https://github.com/mu-fazil-vk/Love-Calculator/blob/main/screenshot/pop-up.jpg" height="250" width="320" >
+<img align="left" src="https://github.com/mu-fazil-vk/Love-Calculator/blob/main/screenshot/install.jpg" height="190" width="320" >
+<img src="https://github.com/mu-fazil-vk/Love-Calculator/blob/main/screenshot/pop-up.jpg" height="300" width="320" >
 
 ## License
 
